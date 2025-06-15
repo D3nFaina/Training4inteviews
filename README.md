@@ -5,3 +5,5 @@ This file is getting modifies everyday, better explanations are contained within
 This is ~not~ my first change on GitHub!
 
 I edited this file on my own computer! AH HACKERMAN!
+
+Updated with Leetcode 10
