@@ -6,4 +6,6 @@ This is ~not~ my first change on GitHub!
 
 I edited this file on my own computer! AH HACKERMAN!
 
-Updated with Leetcode 10
+Updated with Leetcode 10 (not much interesting imho)
+
+Updated with Leetcode 11
