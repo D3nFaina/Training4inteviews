@@ -9,3 +9,5 @@ I edited this file on my own computer! AH HACKERMAN!
 Updated with Leetcode 10 (not much interesting imho)
 
 Updated with Leetcode 11
+
+Implemented a catastrofic version of Solving Sudoku (Leetcode 12)
