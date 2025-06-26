@@ -1,5 +1,5 @@
 # Training4inteviews
-Classic interview questions solved by me and later improved by AI / other people / me finally using my brain
+Classic interview questions solved by me (using either Python or C++ or both) and later improved by AI / other people / me finally using my brain
 This file is getting modifies everyday, better explanations are contained within the code file.
 
 This is ~not~ my first change on GitHub!
